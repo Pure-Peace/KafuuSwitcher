@@ -2,7 +2,10 @@
 
 osu!Kafuu Server Switcher
 
-start 
+ ![image](http://otsu.fun/demos3/rsr.png)
+
+
+## start 
 
 ```
 KafuuSwitcher.csproj
